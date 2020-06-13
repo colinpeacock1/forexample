@@ -1,2 +1,3 @@
-something new 
 git testing for go...
+
+i added this text in new-edit branch
